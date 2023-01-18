@@ -7,7 +7,7 @@ export default defineConfig({
     description: "Laravel splade 学习记录",
     lastUpdated: true,
     head: [
-        //
+        ['link', {rel: 'icon', href: '/laravel-splade-study/images/favicon.ico'}],
     ],
     themeConfig: {
         logo: "/images/logo.svg",
